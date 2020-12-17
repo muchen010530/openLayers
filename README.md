@@ -1,13 +1,16 @@
 # openlayer
 
-## Project setup
-```
-npm install
-```
+## 实现第一个地图
 
-### Compiles and hot-reloads for development
+[第一个地图](src/components/HelloWorld.vue)
+
+
+### 实现一个简单的弹出窗口
+
+[一个简单的弹出窗口](src/components/popup.vue)
 ```
-npm run serve
+三种常见的Overlay用法：
+
 ```
 
 ### Compiles and minifies for production
